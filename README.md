@@ -15,6 +15,7 @@ The link below is to the shared one-drive Word document.
 ## Team / Group Members
 
 The group/team is comprised of:
+
 - Richard Hoehn (**richardhoehn**)
 - Hector Rogel (**Hrogel9007**)
 - Isaiah Osborne(**IMOsbo**)
@@ -32,6 +33,13 @@ This folder contains **all** group members code contributions in separate folder
 
 This folder contains the provided data files.
 
+### Analysis (`/Analysis`)
+
+This section of the repository holds datasets, maps, and other useful information that we sued for this project.
+
+Some intereting links are:
+
+- <https://github.com/UMNLibraries/mp-us-racial-covenants/>
 
 ### Collaboration (`/Collaboration`)
 
